@@ -1,6 +1,6 @@
 Name:		texlive-academicons
 Version:	62622
-Release:	1
+Release:	2
 Summary:	Font containing high quality icons of online academic profiles
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/academicons

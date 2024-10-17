@@ -3,7 +3,7 @@ Version:	62622
 Release:	2
 Summary:	Font containing high quality icons of online academic profiles
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/academicons
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/academicons
 License:	lppl1.3c ofl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/academicons.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/academicons.doc.r%{version}.tar.xz
